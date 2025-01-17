@@ -6,7 +6,7 @@ package demoforgit;
 
 /**
  *
- * @author andre
+ * @author andrew panko
  */
 public class DemoForGit {
 
@@ -19,6 +19,7 @@ public class DemoForGit {
         //Change
         //making another change
         //Vansh is so cool he doesn't need to make a change... LOL
+        //I'm making a change from remote/github
     }
     
 }
